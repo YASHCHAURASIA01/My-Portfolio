@@ -362,6 +362,11 @@ form btn2{
     margin-top: 20px;
 }
 
+#conSub {
+    font-weight: medium;
+    font-size: 20px;
+}
+
 #conSub:hover {
     cursor: pointer;
 }
