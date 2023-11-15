@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio website - Yash Chaurasia</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Link to the main favicon.ico file -->
+    <link rel="icon" href="images/favicon_io/favicon.ico" type="image/x-icon">
+
+    <!-- Link to Android Chrome icons -->
+    <link rel="icon" type="image/png" sizes="192x192" href="images/favicon_io/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="images/favicon_io/android-chrome-512x512.png">
+
+    <!-- Link to Apple Touch Icon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="images/favicon_io/apple-touch-icon.png">
+
+    <!-- Link to other favicon sizes -->
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon_io/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon_io/favicon-16x16.png">
+
+    <!-- Link to site.webmanifest -->
+    <link rel="manifest" href="images/favicon_io/site.webmanifest">
+    <script src="https://kit.fontawesome.com/def00d5f6e.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<div id="header">
+    <div class="container">
+        <nav>
+            <img src="images/Logo.png" alt="logo" class="logo">
+            <ul id="sidemenu">
+                <li><a href="#header">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#contact">Contact</a></li>
+                <i class="fa-solid fa-xmark" onclick="closemenu()"></i>
+            </ul>
+            <i class="fa-solid fa-bars" onclick="openmenu()"></i>
+        </nav>
+
+        <div class="header-text">
+            <p>Python Programmer..<br>Graphic Designer</p>
+            <h1>Hi, I'm <span>Yash</span> <br> Chaurasia From India!</h1>
+        </div>
+    </div>
+</div>    
+
+<!-- ===========================About=========================== -->
+
+<div id="about">
+    <div class="container">
+        <div class="row">
+            <div class="about-col-1">
+                <img src="images/user.jpg" alt="user">
+            </div>
+            <div class="about-col-2">
+                <h1 class="sub-title">About Me :)</h1>
+                <p>Hello Everyone I'm Yash!
+                    I wanted to take a moment to share a bit about myself and provide a quick update on what I've been up to lately.
+                    <br>I'm a passionate Python programmer, constantly striving to deepen my understanding of the language and explore its vast capabilities. Learning is a continuous journey for me, and Python has been an exciting road to traverse. The world of programming is vast, and I am enjoying the challenge of mastering its intricacies.In addition to my Python adventures, I'm currently managing a myriad of activities. Balancing my studies at LNCT Bhopal is a significant part of my routine. Education is a priority, and I'm diligently working towards completing my studies.
+                    <br>Beyond academics, I've also ventured into the realm of graphic designing. It's a creative outlet that allows me to blend technology with artistry. Enrolling in graphic design projects has been a fulfilling experience, offering a different perspective and helping me refine my skills.
+                    <br>Thank you! for being a part of my journey, and I look forward to sharing more updates with you all.
+                </p>
+                <div class="tab-titles">
+                    <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                    <p class="tab-links" onclick="opentab('experience')">Experience</p>
+                    <p class="tab-links" onclick="opentab('education')">Education</p>
+                </div>
+                
+                <div class="tab-contents active-tab" id="skills">
+                    <ul><li><span>Python Programmer</span><br>Basic Programing<br>Simple Maths Games</li>
+                        <li><span>Vedio Editing</span><br>Basic Transitions/Cuts/Capturing</li>
+                        <li><span>Graphic Designing</span><br>Logos<br>Banners<br>Virtual Signatures</li>
+                    </ul>
+                </div>
+                
+                <div class="tab-contents" id="experience">
+                    <ul><li><span>2022</span><br>Start studies</li>
+                        <li>Still Working!!</li>
+                    </ul>
+                </div>
+
+                <div class="tab-contents" id="education">
+                    <ul><li><span>2022</span><br>CSE - AIML at LNCT Bhopal</li>
+                        <li><span>2023</span><br>Web Developement Workshops at 'MANIT'</li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ==========================Services============================== -->
+
+<div id="services">
+    <div class="container">
+        <h1 class="sub-title">My Services :)</h1>
+        <div class="services-list">
+            <div>
+                <i class="fa-solid fa-code"></i><br><br>                
+                <h2>Programming</h2><br>
+                <p>Sorry!! We can't Provide you any Services Related to Programming Yet!!, It will provided to you ASAP!!</p><br>
+            </div>
+            <div>
+                <i class="fa-brands fa-codepen"></i><br><br>                
+                <h2>Graphic Designing</h2><br>
+                <p>Hello,I hope this message finds you well. My name is [Your Name], and I'm thrilled to share that I am currently offering a range of graphic design services to clients like you who are looking to enhance their brand aesthetics.
+                    <br>
+                    <br>Services Offered:
+                    <br>1 :) Logo Designing
+                    <br>2 :) Banners
+                    <br>3 :) PNG Banners
+                    <br>4 :) 2D Artworks
+                </p>
+                <a href="#">Learn More :)</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- =====================Portfolio============================= -->
+
+<div id="portfolio">
+    <div class="container">
+        <h1 class="sub-title">My Work :)</h1>
+        <div class="work-list">
+            <div class="work">
+                <img src="images/work-1.png" alt="work">
+                <div class="layer">
+                    <h3>MathExp Game</h3>
+                    <p>This Software helps you to enhance your maths skills..
+                        <br>You can use it from th given link.<br>~(Android Beta Version is not Available for now!!)<br>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="work">
+                <img src="images/non_response.png" alt="work">
+                <div class="layer">
+                    <h3> Upcoming Projects :(</h3>
+                    <p>Note: This Spacing is made to look website prettier or These are the Voids for Upcoming Projects.<br>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="work">
+                <img src="images/non_response.png" alt="work">
+                <div class="layer">
+                    <h3>Upcoming Projects :(</h3>
+                    <p>Note: This Spacing is made to look website prettier or These are the Voids for Upcoming Projects.<br>
+                        <a href="#"><i class="fa-solid fa-up-right-from-square"></i></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <a href="#" class="btn">See more...</a>
+    </div>
+</div>
+
+<!-- =======================================================Contact====================================== -->
+
+<div id="contact">
+    <div class="container">
+        <div class="row">
+            <div class="contact-left">
+                <h1 class="sub-title">Contact me :)</h1><br>
+                <p> <i class="fa-solid fa-envelope"></i> : yashbhai9876@gmail.com
+                <br><i class="fa-solid fa-phone"></i> : +91 62322 90502</p>
+
+                <div class="social-icons">
+                    <a href="https://www.linkedin.com/in/yash-chaurasia-9219a3277/"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/master_yash._.01/?hl=en"><i class="fab fa-instagram"></i></a>
+                    <a href="https://t.me/Natsu_0_0"><i class="fa-sharp fa-solid fa-paper-plane"></i></a>
+                    <a href="https://twitter.com/master_yash_01"><i class="fa-brands fa-x-twitter"></i></a>
+                </div>
+                <a href="images/my-cv.pdf" download class="btn btn2">Download CV</a>
+            </div>
+            <div class="contact-right">
+                <form name="submit-to-google-sheet">
+                    <input type="text" name="Name" placeholder="Your Name" required>
+                    <input type="email" name="Email" placeholder="Your Email" required>
+                    <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                    <button type="submit" class="btn btn2">Submit</button>
+                </form>
+                <span id="msg"></span>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <p>Copyright © Yash. All Rights Reserved.<br>
+        Made with <i class="fa-solid fa-heart"></i> by Natsu :)</p>
+    </div>
+
+</div>
+
+
+<script>
+
+    var tablinks = document.getElementsByClassName("tab-links")
+    var tabcontents = document.getElementsByClassName("tab-contents")
+    
+    function opentab(tabname){
+        for(tablink of tablinks){
+            tablink.classList.remove("active-link")
+        }
+        for(tabcontent of tabcontents){
+            tabcontent.classList.remove("active-tab")
+        }
+        event.currentTarget.classList.add("active-link")
+        document.getElementById(tabname).classList.add("active-tab")
+    }
+
+</script>
+
+<!-- ============================For Android========================= -->
+
+<script>
+
+    var sidemenu = document.getElementById("sidemenu")
+
+    function openmenu(){
+        sidemenu.style.right = "0";
+    }
+    function closemenu(){
+        sidemenu.style.right = "-200px";
+    }
+
+</script>
+
+<script>
+    const scriptURL = 'https://script.google.com/macros/s/AKfycbw3FgCcRte9eFhBtZYxkM8AqM-D2tnT8fsbRuGVQ1ms3NU3znIRxYnK2AL5c9_SkI7heA/exec'
+    const form = document.forms['submit-to-google-sheet']
+    const msg = document.getElementById("msg")
+
+    form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+        .then(response => {
+            msg.innerHTML = "Message Sent Sucessfully :) !!!!"
+            setTimeout(function(){
+                msg.innerHTML = ""
+            },2000)
+            form.reset()
+        })
+        .catch(error => console.error('Error!', error.message))
+    })
+</script>
+
+</body>
+</html>
