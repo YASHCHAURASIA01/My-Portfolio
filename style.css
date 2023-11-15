@@ -362,6 +362,10 @@ form btn2{
     margin-top: 20px;
 }
 
+#conSub:hover {
+    cursor: pointer;
+}
+
 /* ====================================CSS For Phone================================ */
 
 nav .fa-solid{
