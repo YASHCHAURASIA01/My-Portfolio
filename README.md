@@ -29,6 +29,16 @@ Open `index.html` in your preferred web browser.
 ![About Page](images/about.png)
 *About Page*
 
+![Services Page](images/services.png)
+*Services Page*
+
+![Work Page](images/work.png)
+*Work Page*
+
+![Contact Page](images/contact.png)
+*Contact Page*
+
+
 ## 🔗Direct Link
 - Check out the live demo of my portfolio website [here](https://yash-c-portfolio.vercel.app/)! 🌟
 
