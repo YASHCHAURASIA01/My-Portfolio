@@ -1,9 +1,8 @@
-Here's a sample README file for your GitHub repository with some emojis to make it more engaging:
+## 📂 Portfolio Website - Yash Chaurasia
 
-```markdown
-# 📂 Portfolio Website - Yash Chaurasia
-
-Welcome to my portfolio website repository! This project showcases my skills as a Python programmer and graphic designer. Feel free to explore the code and provide feedback.
+Welcome to my portfolio website repository!
+This project showcases my skills as a Python programmer and graphic designer.
+Feel free to explore the code and provide feedback.
 
 ## 🚀 Features
 
@@ -20,17 +19,7 @@ Welcome to my portfolio website repository! This project showcases my skills as 
 - JavaScript
 - Font Awesome
 
-## 🌟 How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/portfolio-website.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd portfolio-website
-   ```
-3. Open `index.html` in your preferred web browser.
+Open `index.html` in your preferred web browser.
 
 ## 📷 Screenshots
 
@@ -47,7 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contact
 
 - 📧 Email: yashbhai9876@gmail.com
-- 📞 Phone: +91 62322 90502
 
 ### Connect with me:
 
