@@ -44,6 +44,6 @@ Open `index.html` in your preferred web browser.
 [![Twitter](https://img.shields.io/badge/Twitter-master__yash__01-blue)](https://twitter.com/master_yash_01)
 
 Thank you for visiting my repository! 🙌
+
 ```
 
-This README file includes a brief introduction, features, technologies used, usage instructions, screenshots, license information, and contact details with social media links. Adjust the paths for screenshots and your GitHub username as needed.
