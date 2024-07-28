@@ -29,9 +29,8 @@ Open `index.html` in your preferred web browser.
 ![About Page](images/about.png)
 *About Page*
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 🔗Direct Link
+- [![Portfoliw Website](https://yash-c-portfolio.vercel.app/)]
 
 ## 🤝 Contact
 
