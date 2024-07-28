@@ -30,7 +30,8 @@ Open `index.html` in your preferred web browser.
 *About Page*
 
 ## 🔗Direct Link
-- [![Portfolio Website](https://img.shields.io/badge/Portfolio-Yash%20Chaurasia-blue)]([https://yash-c-portfolio.vercel.app/])
+- Check out the live demo of my portfolio website [here](https://yash-c-portfolio.vercel.app/)! 🌟
+
 ## 🤝 Contact
 
 - 📧 Email: yashbhai9876@gmail.com
