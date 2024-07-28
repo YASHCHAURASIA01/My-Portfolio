@@ -55,5 +55,3 @@ Open `index.html` in your preferred web browser.
 
 Thank you for visiting my repository! 🙌
 
-```
-
