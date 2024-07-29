@@ -21,22 +21,10 @@ Feel free to explore the code and provide feedback.
 
 Open `index.html` in your preferred web browser.
 
-## 📷 Screenshots
+## 📷 Overview
 
-![Home Page](images/homepage.png)
-*Home Page*
+https://github.com/user-attachments/assets/d999de2c-ff60-43ff-acb9-c07ad2e5db6a
 
-![About Page](images/about.png)
-*About Page*
-
-![Services Page](images/services.png)
-*Services Page*
-
-![Work Page](images/work.png)
-*Work Page*
-
-![Contact Page](images/contact.png)
-*Contact Page*
 
 
 ## 🔗Direct Link
