@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/d999de2c-ff60-43ff-acb9-c07ad2e5db6a
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yash%20Chaurasia-blue)](https://www.linkedin.com/in/yash-chaurasia-9219a3277/)
 [![Instagram](https://img.shields.io/badge/Instagram-master__yash._.01-purple)](https://www.instagram.com/master_yash._.01/?hl=en)
 [![Telegram](https://img.shields.io/badge/Telegram-Natsu__0__0-blue)](https://t.me/Natsu_0_0)
-[![X](https://img.shields.io/badge/Twitter-master__yash__01-blue)](https://twitter.com/master_yash_01)
+[![X](https://img.shields.io/badge/X-master__yash__01-blue)](https://x.com/master_yash_01)
 
 Thank you for visiting my repository! 🙌
 
